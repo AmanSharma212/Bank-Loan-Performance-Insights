@@ -1,23 +1,49 @@
-# Bank-Loan-Analysis-project-using-Power-BI-and-SQL
-
-# Bank Loan Analysis Dashboard – Power BI + SQL
+# Bank-Loan-Performance-Insights-using-Power-BI-and-SQL
 
 This project analyzes bank loan performance using SQL and Power BI. It tracks key KPIs such as total applications, funded amount, repayment, average interest rate, and loan health (Good vs Bad Loans).
 
-## Tools Used
-- Power BI
-- SQL Server
-- DAX
-- Power Query
+---
 
-## What I Did
-- Wrote SQL queries to calculate all loan KPIs
-- Validated metrics using SQL before importing to Power BI
-- Built a multi-page Power BI dashboard with interactive visuals
-- Used slicers, field parameters, and navigation for user-friendly exploration
+## 🛠️ Tools & Technologies
 
+| Tool        | Purpose                          |
+|-------------|----------------------------------|
+| **SQL Server** | Data cleaning, metric calculation, KPI logic |
+| **Power BI**   | Interactive dashboard, DAX measures, filters |
+| **Power Query**| Data import and transformation |
+| **DAX**        | Advanced KPIs and calculated columns |
 
 
+---
+
+## 🎯 Objectives
+
+- Analyze bank loan data to evaluate lending patterns and repayment performance
+- Identify high-risk loan segments and default trends
+- Calculate key financial KPIs like funding rate, interest income, and good/bad loan ratios
+- Build a user-friendly dashboard for stakeholders to monitor loan metrics in real time
+
+---
+## 🗃️ Data Highlights
+
+- Loan ID, Amount Requested, Funded Amount  
+- Term, Interest Rate, Annual Income  
+- Loan Status (Fully Paid, Charged Off, etc.)  
+- Home Ownership, Purpose, and State  
+- Debt-to-Income Ratio, Delinquency History
+
+---
+
+## 📈 Power BI Dashboard Features
+
+- 📊 **Loan KPIs**: total funded, avg interest, approval ratio, good vs bad loans  
+- 🗓️ **Time Trends**: funding and repayments over time  
+- 📍 **Demographic Filters**: loan performance by state, purpose, income bracket  
+- 🧭 **Navigation Panel**: multi-tab experience with slicers and cross-filtering  
+- 💡 **Risk Analysis**: highlights high-default segments and helps credit strategy
+
+
+---
 ##  Dashboard Screenshots
 
 ### 1. Bank Loan Summary Dashboard
@@ -31,8 +57,6 @@ This project analyzes bank loan performance using SQL and Power BI. It tracks ke
 
 
 
-## Tutorial Credit
-This project was inspired by [Data Tutorials’ Power BI Loan Analysis Guide](https://www.youtube.com/watch?v=GMYgPg6eKP8). Full credit to their team for the walkthrough structure and raw data guidance.
 
 ## Files
 
