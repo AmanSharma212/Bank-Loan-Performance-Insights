@@ -47,7 +47,7 @@ This project analyzes bank loan performance using SQL and Power BI. It tracks ke
 ##  Dashboard Screenshots
 
 ### 1. Bank Loan Summary Dashboard
-![Bank Loan Summary Dashboard](https://github.com/AnuA1995/Bank-Loan-Analysis-project-using-Power-BI-and-SQL/blob/main/Screenshots/BankLoanSummary.png?raw=true)
+![Bank Loan Summary Dashboard](https://github.com/AmanSharma212/Bank-Loan-Performance-Insights/blob/main/Screenshots/BankLoanDetails.png)
 
 ### 2. Bank Loan Overview Dashboard
 ![Bank Loan Overview Dashboard](https://github.com/AnuA1995/Bank-Loan-Analysis-project-using-Power-BI-and-SQL/blob/main/Screenshots/BankLoanOverview.png?raw=true)
